@@ -1,5 +1,5 @@
 <a><h1>魔改版BBR一键脚本 For Debian8/Ubuntu16+</a></h1> 
-<h2 id="部分商家的VPS可能会遇到换内核之后无法启动系统的情况，所以请运行脚本前一定要备份好重要数据！！">部分商家的VPS可能会遇到换内核之后无法启动系统的情况，所以请运行脚本前一定要备份好重要数据！！</h2>
+<strong>部分商家的VPS可能会遇到换内核之后无法启动系统的情况，所以请运行脚本前一定要备份好重要数据！！部分商家的VPS可能会遇到换内核之后无法启动系统的情况，所以请运行脚本前一定要备份好重要数据！！</strong>
 <h2 id="安装脚本">安装脚本</h2>
 <pre class="prettyprint linenums" >
 wget -N --no-check-certificate https://raw.githubusercontent.com/FunctionClub/YankeeBBR/master/bbr.sh &amp;&amp; bash bbr.sh install</pre>
