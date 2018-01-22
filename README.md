@@ -1,5 +1,6 @@
 # YankeeBBR
-<meta name="description" content="BBR相信大家都不陌生，是谷歌开发的一个存在于Linux内核中的拥塞算法。为了优化国内与服务器之间的网络质量，loc的大佬专门魔改改进了下这个BBR，成为了新的BBR魔改版。我也就乘机水一篇文章好了~在Debian 8 和Ubuntu16 系统上一键部署魔改版BBR，自动换内核成 4.10.15 ，自动安装Headers。用户只需要将系统安装成 Debian 8 或者 Ubuntu 16 即可，剩下的交给脚本来吧。据说效果比原版BBR和"><h1 class="article-title"><a href="http://letvps.com/104.html">魔改版BBR一键脚本 For Debian8/Ubuntu16+（雨落无声版）</a></h1> 
+
+<a><h1>魔改版BBR一键脚本 For Debian8/Ubuntu16+</a></h1> 
 <h2 id="部分商家的VPS可能会遇到换内核之后无法启动系统的情况，所以请运行脚本前一定要备份好重要数据！！"><strong>部分商家的VPS可能会遇到换内核之后无法启动系统的情况，所以请运行脚本前一定要备份好重要数据！！</strong></h2>
 <h2 id="安装脚本">安装脚本</h2>
 <pre class="prettyprint linenums" >
