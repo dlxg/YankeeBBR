@@ -1,7 +1,7 @@
 # YankeeBBR
 来自Loc大佬Yankee魔改的BBR的Debian一键安装包
 
-**一键安装:**  
+**一键安装:**  
 wget -N --no-check-certificate https://raw.githubusercontent.com/dlxg/YankeeBBR/master/bbr.sh && bash bbr.sh install
 
 **安装后重启vps执行:**  
