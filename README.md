@@ -4,7 +4,7 @@
 <pre class="prettyprint linenums" >
 wget -N --no-check-certificate https://raw.githubusercontent.com/dlxg/YankeeBBR/master/bbr.sh &amp;&amp; bash bbr.sh install</pre>
 安装过程中如果出现这张图片，请选择NO 来删除其他内核：</p>
-<img class="aligncenter size-full wp-image-106" src="https://cdn.ylws.me/usr/uploads/2017/06/3363374172.png" width="1037" height="686" /></p>
+<img class="aligncenter size-full wp-image-106" src="https://cdn.ylws.me/usr/uploads/2017/06/3363374172.png" width="640" height="420" /></p>
 <p>然后根据提示重启系统。<br />
 重启完成后，运行</p>
 <pre class="prettyprint linenums" >
