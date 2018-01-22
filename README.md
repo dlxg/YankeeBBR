@@ -7,7 +7,7 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/FunctionClub/Ya
 **安装后重启vps执行:**  
 bash bbr.sh start
 
-**查看魔改BBR状态:**
+**查看魔改BBR状态:**  
 sysctl net.ipv4.tcp_available_congestion_control
 
-如果看到有 tsunami 就表示开启成功！
+**如果看到有 tsunami 就表示开启成功！**
